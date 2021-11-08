@@ -1,5 +1,5 @@
 # FileGenics
-File sorter program that creates folders depending on the extension of the file
+File sorter program that creates folders and store files depending on the extension of the file.
 
 ## Dependencies
 You need **python** installed on your computer and the ``PyQt5`` library, to install it just type ``pip install PyQt5`` on you command prompt.
