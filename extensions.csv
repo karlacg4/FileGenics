@@ -1,0 +1,9 @@
+﻿pdfs,pdf,PDF,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+images,tif,tiff,bmp,jpg,jpeg,gif,png,eps,raw,,,,,,,,,,,,,,,,,,,,,
+officeFiles,docx,docm,dotx,dotm,docb,xls,xlt,xlm,xlsx,xlsm,xltx,xltm,xlsb,xla,xlam,xll,xlw,ppt,pptx,pptm,potx,potm,ppam,ppsx,ppsm,sldx,sldm,one,pub,xps
+videos,mp4,mov,wmv,avi,avchd,flv,f4v,swf,mkv,webm,mpeg-2,,,,,,,,,,,,,,,,,,,
+programs,exe,apk,bat,bin,msi,,,,,,,,,,,,,,,,,,,,,,,,,
+compressedFiles,7z,s7z,ace,afa,apk,arc,ark,rar,rk,sqx,war,xar,zoo,zip,,,,,,,,,,,,,,,,
+code,cpp,py,c,cgi,pl,class,cs,h,java,php,sh,swift,vb,sln,mk,,,,,,,,,,,,,,,
+audio,mp3,aac,flac,ogg,alac,wav,aiff,dsd,pcm,,,,,,,,,,,,,,,,,,,,,
+textos,txt
